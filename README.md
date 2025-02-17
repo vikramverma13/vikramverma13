@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vikra,m Verma
+- 👋 Hi, I’m Vikram Verma
 - 👀 I’m interested in machine leaning and Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python
